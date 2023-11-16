@@ -1,13 +1,13 @@
 # customer-shopping
 <br>
-This tableau project shows insights/visualizations on "customer-shopping-data"
+🚀 This tableau project shows some useful insights and visualizations on "customer-shopping-data"
 <br>
 
-### The project is divided into four sections <br>
+### The project is divided into sections <br>
 1. **Overview** <br>
   It displays a concise overview of the dataset. <br>
 
-2. **Shopping Mall Analysis** <br>
+2. **Shopping Malls Analysis** <br>
   Get insights into which malls had the most engagement.
 
 3. **Shopping Demographics** <br>
@@ -28,7 +28,9 @@ The last Container contains two sheets:
 I have also added a separate filter box for this sheet just because you have to scroll too much to apply the above two filters.
 - **Payment Method Distribution**
 <br>
+
 ✨ I hope you find this useful <br>
+
 🤝 Also, I am open to any suggestions or changes to improve the workbook
 
-### **Thank You**
+### **Thank You!**
