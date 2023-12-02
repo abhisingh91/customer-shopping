@@ -1,6 +1,6 @@
-# customer-shopping
+# shopping-mall-analysis
 <br>
-🚀 This tableau project shows some useful insights and visualizations on "customer-shopping-data"
+🚀 This tableau workbook contains some useful insights and visualizations on purchases in different shopping malls in the dataset
 <br>
 
 ### The project is divided into sections <br>
